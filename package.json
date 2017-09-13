@@ -1,11 +1,12 @@
 {
   "name": "dn-middleware-autoversion",
-  "version": "1.0.1502345088047",
+  "version": "1.0.17934536",
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
     "test": "dn test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
